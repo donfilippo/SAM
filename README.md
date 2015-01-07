@@ -196,6 +196,8 @@ Stämmer inte alls 12345 Stämmer helt
 
 Stämmer inte alls 12345 Stämmer helt
 
+Inte relevant, det uppstår aldrig några konflikter eller motsättningar på min arbetsplats.
+
 #####40. Jag är nöjd med arbetsmiljöarbetet på min arbetsplats.
 
 Stämmer inte alls 12345 Stämmer helt
