@@ -1,8 +1,8 @@
 ###Arbetsplatsanalys
 
-40 frågor
+42 frågor
 
-Arbetsplatsanalysen syftar till att ge din arbetsgivare bättre koll på vad ni anställda anser om arbetsmiljön, arbetsklimatet och arbetsuppgifterna, samt vad ni anser om ledningens förhållningssätt till de anställda.
+Arbetsplatsanalysen syftar till att ge din arbetsgivare bättre koll på vad du som anställd anser om arbetsmiljön, arbetsklimatet och arbetsuppgifterna, samt vad du anser om ledningens förhållningssätt till er anställda.
 
 För att din arbetsgivare ska kunna använda svarsresultaten som underlag för åtgärder som ska verka för att förbättra situationen på arbetsplatsen, är det viktigt att du svarar ärligt och tar god tid på dig när du fyller i enkäten.
 
