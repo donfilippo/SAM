@@ -64,7 +64,7 @@ Väldigt mycket 12345 Inte alls
 
 Väldigt mycket 12345 Inte alls
 
-#####11. Jag besväras avtunga arbetsmoment på min arbetsplats.
+#####11. Jag besväras av tunga arbetsmoment på min arbetsplats.
 
 Väldigt mycket 12345 Inte alls
 
@@ -98,23 +98,23 @@ Stämmer inte alls 12345 Stämmer helt
 
 ####Arbetskrav
 
-#####18. Det är tydligt vad som förväntas av mig.
+#####18. Det är tydligt vad som förväntas av mig i mitt arbete.
 
 Stämmer inte alls 12345 Stämmer helt
 
-#####19. Jag kan leva upp till de krav som ställs på mig från min arbetsgivare.
+#####19. Jag kan leva upp till de arbetsmässiga krav som ställs på mig från min arbetsgivare.
 
 Stämmer inte alls 12345 Stämmer helt
 
-#####20. Jag kan leva upp till de krav som ställs på mig från konsumenten/användaren.
+#####20. Jag kan leva upp till de arbetsmässiga krav som ställs på mig från konsumenten/användaren.
 
 Stämmer inte alls 12345 Stämmer helt
 
-#####21. Jag kan leva upp till de krav som ställs på mig från mina arbetskamrater.
+#####21. Jag kan leva upp till de arbetsmässiga krav som ställs på mig från mina arbetskamrater.
 
 Stämmer inte alls 12345 Stämmer helt
 
-#####22. Jag kan leva upp till de krav som ställs på mig från mig själv.
+#####22. Jag kan leva upp till de arbetsmässiga krav som ställs på mig från mig själv.
 
 Stämmer inte alls 12345 Stämmer helt
 
@@ -222,6 +222,14 @@ Stämmer inte alls 12345 Stämmer helt
 
 Anteckningar:
 
-Fråga 20 kan behöva omformuleras eller tas bort.
+Fråga 20 Endast relevant för vissa arbetsuppdrag (handel, kundtjänst, matlagning, o.s.v.). Kan tas bort helt.
+
+Fråga 22 Fundera över om denna fråga verkligen fyller någon funktion.
+
+Fråga 31 Tvetydig fråga. Vadå nöjd överlag?
+
+Fråga 41 Tvetydig fråga. Vadå nöjd överlag?
+
+Fråga 42 Tvetydig fråga. Vadå nöjd överlag?
 
 Fråga 35 Behövs verkligen alternativ: "Inte relevant, det behövs aldrig."?
