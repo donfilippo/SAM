@@ -106,10 +106,6 @@ Stämmer inte alls 12345 Stämmer helt
 
 Stämmer inte alls 12345 Stämmer helt
 
-#####20. Jag kan leva upp till de arbetsmässiga krav som ställs på mig från konsumenten/användaren.
-
-Stämmer inte alls 12345 Stämmer helt
-
 #####21. Jag kan leva upp till de arbetsmässiga krav som ställs på mig från mina arbetskamrater.
 
 Stämmer inte alls 12345 Stämmer helt
@@ -124,7 +120,7 @@ Stämmer inte alls 12345 Stämmer helt
 
 Stämmer inte alls 12345 Stämmer helt
 
-#####24. Jag ge möjlighet till personlig utveckling i mitt arbete.
+#####24. Jag ges möjlighet till personlig utveckling i mitt arbete.
 
 Stämmer inte alls 12345 Stämmer helt
 
@@ -222,7 +218,7 @@ Stämmer inte alls 12345 Stämmer helt
 
 Anteckningar:
 
-Fråga 20 Endast relevant för vissa arbetsuppdrag (handel, kundtjänst, matlagning, o.s.v.). Kan tas bort helt.
+Fråga: "Jag kan leva upp till de arbetsmässiga krav som ställs på mig från konsumenten/användaren." är endast relevant för vissa arbetsuppdrag (handel, kundtjänst, matlagning, o.s.v.) och blir därför en tilläggsfråga.
 
 Fråga 22 Fundera över om denna fråga verkligen fyller någon funktion.
 
