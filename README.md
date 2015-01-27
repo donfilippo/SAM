@@ -106,103 +106,103 @@ Stämmer inte alls 12345 Stämmer helt
 
 Stämmer inte alls 12345 Stämmer helt
 
-#####21. Jag kan leva upp till de arbetsmässiga krav som ställs på mig från mina arbetskamrater.
+#####20. Jag kan leva upp till de arbetsmässiga krav som ställs på mig från mina arbetskamrater.
 
 Stämmer inte alls 12345 Stämmer helt
 
-#####22. Jag kan leva upp till de arbetsmässiga krav som ställs på mig från mig själv.
+#####21. Jag kan leva upp till de arbetsmässiga krav som ställs på mig från mig själv.
 
 Stämmer inte alls 12345 Stämmer helt
 
 ####Utveckling
 
-#####23. Jag ges möjlighet till yrkesmässig utveckling i mitt arbete.
+#####22. Jag ges möjlighet till yrkesmässig utveckling i mitt arbete.
 
 Stämmer inte alls 12345 Stämmer helt
 
-#####24. Jag ges möjlighet till personlig utveckling i mitt arbete.
+#####23. Jag ges möjlighet till personlig utveckling i mitt arbete.
 
 Stämmer inte alls 12345 Stämmer helt
 
-#####25. Jag är nöjd med kommunikationen som jag har med mina överordnade angående min utveckling på arbetsplatsen.
+#####24. Jag är nöjd med kommunikationen som jag har med mina överordnade angående min utveckling på arbetsplatsen.
 
 Stämmer inte alls 12345 Stämmer helt
 
 ####Trivsel och arbetsklimat
 
-#####26. Samarbetet med mina arbetskollegor fungerar bra.
+#####25. Samarbetet med mina arbetskollegor fungerar bra.
 
 Stämmer inte alls 12345 Stämmer helt
 
-#####27. Vi diskuterar öppet våra eventuella samarbetssvårigheter och meningsmotsättningar på min arbetsplats.
+#####26. Vi diskuterar öppet våra eventuella samarbetssvårigheter och meningsmotsättningar på min arbetsplats.
 
 Stämmer inte alls 12345 Stämmer helt
 
 Det finns inget behov av en sådan diskussion på min arbetsplats.
 
-#####28. Mina arbetskollegor hjälper mig med mina arbetsuppgifter när det behövs.
+#####27. Mina arbetskollegor hjälper mig med mina arbetsuppgifter när det behövs.
 
 Stämmer inte alls 12345 Stämmer helt
 
-#####29. Jag bemöts med respekt av mina arbetskollegor.
+#####28. Jag bemöts med respekt av mina arbetskollegor.
 
 Stämmer inte alls 12345 Stämmer helt
 
-#####30. På min arbetsplats förekommer ingen mobbning.
+#####29. På min arbetsplats förekommer ingen mobbning.
 
 Stämmer inte alls 12345 Stämmer helt
 
-#####31. Överlag är jag nöjd med situationen på min arbetsplats.
+#####30. Överlag är jag nöjd med situationen på min arbetsplats.
 
 Stämmer inte alls 12345 Stämmer helt
 
-#####32. När jag ska påbörja mitt arbete känner jag oftast positiva känslor.
+#####31. När jag ska påbörja mitt arbete känner jag oftast positiva känslor.
 
 Stämmer inte alls 12345 Stämmer helt
 
 ####Ledning
 
-#####33. Jag får konstruktiv kritik av mina överordnade.
+#####32. Jag får konstruktiv kritik av mina överordnade.
 
 Stämmer inte alls 12345 Stämmer helt
 
-#####34. Mina överordnade visar uppskattning för mitt arbete.
+#####33. Mina överordnade visar uppskattning för mitt arbete.
 
 Stämmer inte alls 12345 Stämmer helt
 
-#####35. Mina överordnade hjälper mig med mina arbetsuppgifter när det behövs.
+#####34. Mina överordnade hjälper mig med mina arbetsuppgifter när det behövs.
 
 Stämmer inte alls 12345 Stämmer helt
 
 Det behövs aldrig.
 
-#####36. Jag bemöts med respekt av mina överordnade.
+#####35. Jag bemöts med respekt av mina överordnade.
 
 Stämmer inte alls 12345 Stämmer helt
 
-#####37. Mina överordnade är öppna för förslag till förändring från mig.
+#####36. Mina överordnade är öppna för förslag till förändring från mig.
 
 Stämmer inte alls 12345 Stämmer helt
 
-#####38. Jag är delaktig i beslutsfattande som rör mina arbetsuppgifter.
+#####37. Jag är delaktig i beslutsfattande som rör mina arbetsuppgifter.
 
 Stämmer inte alls 12345 Stämmer helt
 
-#####39. Mina överordnade är bra på att hantera konflikter och motsättningar som uppstår på arbetsplatsen.
+#####38. Mina överordnade är bra på att hantera konflikter och motsättningar som uppstår på arbetsplatsen.
 
 Stämmer inte alls 12345 Stämmer helt
 
 Inte relevant, det uppstår aldrig några konflikter eller motsättningar på min arbetsplats.
 
-#####40. Jag är nöjd med arbetsmiljöarbetet på min arbetsplats.
+#####39. Jag är nöjd med arbetsmiljöarbetet på min arbetsplats.
 
 Stämmer inte alls 12345 Stämmer helt
 
-#####41. Överlag är jag nöjd med mina överordnade.
+#####40. Överlag är jag nöjd med mina överordnade.
 
 Stämmer inte alls 12345 Stämmer helt
 
-#####42. Överlag är jag nöjd med min arbetsgivare (företaget/organisationen du arbetar för).
+#####41. Överlag är jag nöjd med min arbetsgivare (företaget/organisationen du arbetar för).
 
 Stämmer inte alls 12345 Stämmer helt
 
