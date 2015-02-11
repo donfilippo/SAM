@@ -44,14 +44,6 @@ Väldigt mycket 12345 Inte alls
 
 Väldigt mycket 12345 Inte alls
 
-#####6.Jag besväras av kemiska produkter på min arbetsplats.
-
-Väldigt mycket 12345 Inte alls
-
-#####7. Jag besväras av luftföroreningar på min arbetsplats.
-
-Väldigt mycket 12345 Inte alls
-
 #####8. Jag besväras av dålig cirkulation på min arbetsplats.
 
 Väldigt mycket 12345 Inte alls
